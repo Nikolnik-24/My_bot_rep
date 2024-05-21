@@ -104,3 +104,5 @@ dp.message.register(send_echo)
 # Finish:
 if __name__ == '__main__':
     dp.run_polling(bot)
+
+"Сохранение на PC"
